@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python or Python + SQL**
 
-- 📫 How to reach me **dhanushcrms@gmail.com**
+- 📫 How to reach me **dhanushcrmss@gmail.com**
 
 - 📄 Know more about me [https://drive.google.com/file/d/1cbOHL14vnajJO9_ZUVu8Xh-y32PiqCBU/view?usp=sharing](https://drive.google.com/file/d/1cbOHL14vnajJO9_ZUVu8Xh-y32PiqCBU/view?usp=sharing)
 
